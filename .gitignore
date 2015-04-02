@@ -1,3 +1,5 @@
-wp-config.php
+# ignore WordPress things
+wp-*.php
 wp-admin
 wp-includes
+xmlrpc.php
