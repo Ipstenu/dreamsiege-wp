@@ -1,9 +1,16 @@
 # ignore WordPress things
-wp-*.php
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config-sample.php
+wp-config.php
 wp-admin
 wp-includes
 xmlrpc.php
 .htaccess
 nginx.conf
+
 basic/index.php
 basic/license.txt
+inter/index.php
+inter/license.txt
