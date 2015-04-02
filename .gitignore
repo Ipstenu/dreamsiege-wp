@@ -3,3 +3,7 @@ wp-*.php
 wp-admin
 wp-includes
 xmlrpc.php
+.htaccess
+nginx.conf
+basic/index.php
+basic/license.txt
