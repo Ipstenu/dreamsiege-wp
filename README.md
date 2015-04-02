@@ -33,8 +33,6 @@ Theme: [Customizr](https://wordpress.org/themes/customizr/)
 
 Plugins: Jetpack (dev mode), Contact Form 7, WP-Optimize, Google XML Sitemaps, WordPress SEO, iTheme Security
 
-
-
 ## Advanced
 
 Theme: [Avada](http://theme-fusion.com/avada/)

@@ -55,7 +55,7 @@ function installwp() {
 		wp db import --path=$1 configs/wordpress-$1.sql
 
 		# Search-Replace
-		wp search-replace "http://dreamhost.dev/dreampress/$1" $domain
+		wp search-replace "http://dreamhost.dev/dreamsiege-wp/$1" $domain
 
 	fi
 }
