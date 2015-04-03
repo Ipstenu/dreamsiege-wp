@@ -1,0 +1,65 @@
+Theme Name:   Unconditional
+File Name:    Changelog
+Tested up to: 4.1.1
+Stable tag:	  1.1.2
+
+== Changelog ==
+
+= 1.1.2 =
+* Bug fix on widget input misalignment.
+* Bug fix on header image falling short on width for large screens.
+
+= 1.1.1 =
+* Fixed bug on background image not appearing in theme customizer.
+
+= 1.1.0 =
+* Fixed bug on home/frontpage CTA output triggers.
+* Added the CTA button text output as a change trigger.
+* Fixed missing prefixes for global variables in cta.php and boxes.php
+
+= 1.0.9 =
+* Added option to upload header logo.
+* Corrected the Google font enqueue function.
+* More CSS improvements for BBPress support.
+
+= 1.0.8 =
+* Fixed bug on header image being returned shorter than the container.
+* Changed style elements to better match the areas being styled.
+* Added support for the new core wp_title() function.
+* Minor style improvements.
+
+= 1.0.7 =
+* Fixed bug with Forum page not rendering correctly.
+* Added styles for BBPress to closely match theme design.
+* Moved Title tooltip script to a function callback and added option to disable it. Option under Customizer >> Unconditional Miscellaneous Options.
+* Minor CSS adjustments
+
+= 1.0.6 =
+* Added option to show/hide post meta data on front/home blog feed
+* Fixed missing variable prefixes.
+* Minor CSS & code adjustments.
+
+= 1.0.5 =
+* Fixed bug with full width not applying on front page.
+* Added unconditional.po to assist in theme translation.
+* Added a note re and a link to FontAwesome cheatsheet on the Services tab in the theme Customizer.
+* Added a note to readme.txt re menu top level item not being clickable as a menu link.
+
+= 1.0.4 =
+* Added language files for Bulgarian
+* Added a note to the customizer with a link to FontAwesome icon cheatsheet.
+
+= 1.0.3 =
+* Fixed some missing translation strings and wrong textdomain.
+* Fixed accidental deletion of files in previous version
+
+= 1.0.2 =
+* More security enhancements
+* Minor CSS and code adjustments
+
+= 1.0.1 =
+* Minor bug fixes
+* Added security enhancements
+
+= 1.0.0 =
+Initial Release 

@@ -39,10 +39,6 @@ Theme: [Avada](http://theme-fusion.com/avada/)
 
 Plugins: Jetpack (dev mode), Contact Form 7, WP-Optimize, Google XML Sitemaps, WordPress SEO, WordFence
 
-wp plugin install jetpack --activate ; wp plugin install contact-form-7 --activate; wp plugin install wp-optimize --activate ; wp plugin install wordpress-seo --activate ; wp plugin install wordfence --activate
-
-wp plugin install wordpress-importer --activate; wp import ../theme-unit-test-data.xml --authors=create --quiet
-
 ## Usage
 
 1. Clone this Repo

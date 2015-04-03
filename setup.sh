@@ -93,6 +93,7 @@ for i in "${target_array[@]}"
 			updatewp $i
 		elif [ "$action" = "update" ]
 		then
+		    echo "Updating $i ..."
 			updatewp $i
 		else
 			echo "You shouldn't be able to get here but you did."
