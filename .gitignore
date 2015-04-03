@@ -1,16 +1,12 @@
-# ignore WordPress things
-wp-activate.php
-wp-blog-header.php
-wp-comments-post.php
-wp-config-sample.php
-wp-config.php
-wp-admin
-wp-includes
-xmlrpc.php
 .htaccess
 nginx.conf
 
-basic/index.php
-basic/license.txt
-inter/index.php
-inter/license.txt
+# ignore everything in the root of the sites except the "wp-content" directory.
+basic/*
+inter/*
+advan/*
+
+# But wait! Don't ignore this:
+!basic/wp-content/ 
+!inter/wp-content/ 
+!advan/wp-content/
