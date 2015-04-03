@@ -35,7 +35,7 @@ Plugins: Jetpack (dev mode), Contact Form 7, WP-Optimize, Google XML Sitemaps, W
 
 ## Advanced
 
-Theme: [Avada](http://theme-fusion.com/avada/)
+Theme: [Unconditional](https://wordpress.org/themes/unconditional/)
 
 Plugins: Jetpack (dev mode), Contact Form 7, WP-Optimize, Google XML Sitemaps, WordPress SEO, WordFence
 
@@ -49,6 +49,8 @@ Everything's installed relative to where you are.
 The default user for all sites is admin with a password of password. You'll want to change that.
 
 ## To Do
+
+Make the setup script smarter
 
 Make a default config file you can make to pull your defaults from there.
 
